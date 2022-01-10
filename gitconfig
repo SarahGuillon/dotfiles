@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sarah.guillon.11@gmail.com
+	name = Sarah Guillon
